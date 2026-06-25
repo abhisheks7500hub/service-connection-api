@@ -1,0 +1,201 @@
+company,zone,circle,division,subdivision,temporaryAccountId,tempDateOfRegistration,parentAccountId,childAccountIds,childAccountCount,dateOfRegistration,plotAreaSqft,noOfFloors,dateOfService,regionType,loadKW,tariff,flag,predicted_flag,match
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,1000035,2026-04-21,1000036,,0,2026-04-21,606,GROUND,,ULB,4.25,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,,,0001000485,,0,2024-04-10,430,G_PLUS_2,,RLB,10.25,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,0001000496,2024-02-05,,,0,,587,S_PLUS_2,,RLB,7.67,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,1000019,2026-04-22,1000020,,0,2026-04-22,757,GROUND,,RLB,5.07,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Sedam,0001000640,2025-02-14,0001000641,,0,2025-02-14,2255,G_PLUS_1,,RLB,11.87,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Marathahalli,0001000427,2023-11-12,0001000428,0001000429|0001000430|0001000431|0001000432|0001000433|0001000434,6,2023-11-12,1189,S_PLUS_3,,RLB,12.33,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,1000591,2025-02-18,1000592,1000593|1000594|1000595|1000596|1000597|1000598|1000599,7,2025-02-18,2851,S_PLUS_4,,RLB,5.16,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Raichur,,,0001000696,0001000697,1,2025-04-29,3318,G_PLUS_7,,RLB,3.91,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Mandya,0001000531,2023-12-23,,,0,,674,G_PLUS_2,,ULB,5.49,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Nazarbad,,,1000202,,0,2023-04-07,689,G_PLUS_1,2025-08-01,RLB,7.65,LT-2A,Serviced with OC,Serviced with OC,YES
+HESCOM,Hubli,Hubli,Hubli Division,Haveri,,,1000305,,0,2023-06-12,3366,G_PLUS_6,2026-03-14,ULB,6.32,LT-3,Serviced with OC,Serviced with OC,YES
+CESC,Mysore,Mysore,Mysore Division,Krishnarajanagar,1000530,2024-02-27,,,0,,1036,S_PLUS_1,,ULB,8.34,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,0001000046,2023-11-02,,,0,,744,GROUND,2025-11-08,ULB,11.21,LT-3,G.O-1,G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Nazarbad,1000237,2024-01-12,1000238,,0,2024-01-12,878,GROUND,2025-08-16,RLB,12.48,LT-3,Serviced with OC,Serviced with OC,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Hassan,1000309,2025-12-29,1000310,1000311|1000312,2,2025-12-29,3763,S_PLUS_8,,ULB,4.55,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+GESCOM,Ballari,Ballari,Ballari Division,Ballari,1000604,2025-12-23,,,0,,2433,S_PLUS_3,,ULB,9.30,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Koramangala,1000510,2025-11-05,1000511,1000512,1,2025-11-05,504,S_PLUS_2,,ULB,5.83,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Indiranagar,,,0001000456,0001000457|0001000458|0001000459|0001000460|0001000461|0001000462|0001000463|0001000464|0001000465,9,2024-12-04,709,G_PLUS_1,,RLB,6.60,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Chamarajanagar,0001000398,2024-09-24,0001000399,,0,2024-09-24,1687,G_PLUS_4,2023-06-11,ULB,9.53,LT-3,legacy rule,legacy rule,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Rajajinagar,0001000160,2023-10-11,,,0,,1178,GROUND,2025-07-29,GBA,5.42,LT-3,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Indiranagar,0001000631,2023-08-13,0001000632,,0,2023-08-13,2358,S_PLUS_4,,GBA,6.40,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Jayanagar,,,0001000569,0001000570|0001000571|0001000572|0001000573|0001000574|0001000575|0001000576|0001000577|0001000578|0001000579,10,2025-05-12,1502,S_PLUS_2,,RLB,3.05,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+CESC,Mysore,Mysore,Mysore Division,Krishnarajanagar,1000618,2025-02-06,,,0,,1462,G_PLUS_2,,RLB,3.72,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Nazarbad,,,0001000402,,0,2023-09-02,4213,G_PLUS_5,2023-04-19,RLB,11.72,LT-3,legacy rule,legacy rule,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Rajajinagar,0001000508,2024-09-20,0001000509,,0,2024-09-20,1038,G_PLUS_1,,RLB,2.71,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Nazarbad,,,0001000566,0001000567|0001000568,2,2026-04-14,1677,S_PLUS_3,,RLB,12.46,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+CESC,Mysore,Mysore,Mysore Division,Krishnarajanagar,0001000358,2024-03-18,0001000359,,0,2024-03-18,2227,G_PLUS_5,2025-03-29,ULB,4.82,LT-3,legacy rule,legacy rule,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,HSR Layout,,,1000334,1000335|1000336|1000337|1000338,4,2023-11-03,3516,S_PLUS_5,2026-05-07,ULB,2.89,LT-2A,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Rajajinagar,1000272,2026-06-06,,,0,,3046,S_PLUS_8,,GBA,9.26,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,0001000698,2025-06-23,0001000699,,0,2025-06-23,4524,G_PLUS_8,,RLB,6.04,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Koramangala,0001000550,2025-09-21,,,0,,2717,S_PLUS_1,,RLB,2.23,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+CESC,Mysore,Mysore,Mysore Division,Pandavapura,0001000360,2023-05-01,0001000361,,0,2023-05-01,4602,S_PLUS_7,2024-08-10,RLB,8.82,LT-3,legacy rule,legacy rule,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Nazarbad,,,1000362,,0,2024-06-20,552,S_PLUS_1,2025-02-28,ULB,10.93,LT-3,legacy rule,legacy rule,YES
+CESC,Mysore,Mysore,Mysore Division,Pandavapura,,,1000145,1000146|1000147|1000148|1000149,4,2025-04-11,1431,S_PLUS_2,2026-06-20,RLB,8.01,LT-2A,G.O-2,G.O-2,YES
+CESC,Mysore,Mysore,Mysore Division,Pandavapura,0001000002,2025-01-15,0001000003,,0,2025-01-15,689,S_PLUS_2,2026-04-04,ULB,10.95,LT-2A,G.O-1,G.O-1,YES
+HESCOM,Hubli,Hubli,Hubli Division,Haveri,1000222,2023-12-29,1000223,1000224,1,2023-12-29,792,GROUND,2025-04-24,ULB,2.20,LT-3,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Indiranagar,,,1000526,,0,2024-10-29,638,S_PLUS_2,,GBA,2.47,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+CESC,Mysore,Mysore,Mysore Division,Pandavapura,0001000381,2024-09-11,0001000382,0001000383|0001000384|0001000385,3,2024-09-11,3052,S_PLUS_3,2024-07-10,RLB,7.26,LT-3,legacy rule,legacy rule,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Hassan,0001000182,2024-12-06,0001000183,0001000184|0001000185|0001000186|0001000187|0001000188,5,2024-12-06,749,G_PLUS_2,2025-08-21,ULB,1.89,LT-3,Serviced with OC,Serviced with OC,YES
+HESCOM,Hubli,Hubli,Hubli Division,Bagalkot,,,0001000617,,0,2025-06-23,1707,S_PLUS_2,,ULB,4.30,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,,,0001000726,,0,2026-04-06,3502,G_PLUS_7,,GBA,10.30,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+HESCOM,Hubli,Hubli,Hubli Division,Bagalkot,1000117,2025-07-21,,,0,,1733,S_PLUS_1,,RLB,11.26,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+HESCOM,Hubli,Hubli,Hubli Division,Bagalkot,,,0001000684,0001000685|0001000686|0001000687|0001000688|0001000689|0001000690|0001000691|0001000692|0001000693|0001000694,10,2025-04-15,4587,G_PLUS_6,,ULB,3.16,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,HSR Layout,0001000066,2025-01-28,0001000067,0001000068|0001000069|0001000070|0001000071|0001000072|0001000073|0001000074,7,2025-01-28,2446,G_PLUS_2,2026-06-16,RLB,11.68,LT-2A,G.O-2,G.O-2,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Mandya,,,0001000357,,0,2025-04-14,2099,G_PLUS_9,2024-01-13,ULB,11.68,LT-3,legacy rule,legacy rule,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Gadag,,,1000047,1000048|1000049|1000050,3,2026-04-12,991,GROUND,,ULB,4.62,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,0001000029,2026-05-30,0001000030,0001000031,1,2026-05-30,918,S_PLUS_1,,ULB,10.20,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Rajajinagar,,,1000720,1000721|1000722,2,2024-03-10,4322,G_PLUS_7,,GBA,1.57,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,,,1000005,,0,2025-08-13,502,G_PLUS_2,,RLB,6.87,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,1000723,2024-06-23,1000724,,0,2024-06-23,3876,S_PLUS_7,,ULB,11.86,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Rajajinagar,,,0001000082,0001000083|0001000084|0001000085|0001000086|0001000087|0001000088|0001000089|0001000090|0001000091|0001000092,10,2024-04-26,2207,S_PLUS_4,2026-06-16,GBA,11.87,LT-3,G.O-2,G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,HSR Layout,0001000033,2024-03-05,0001000034,,0,2024-03-05,1073,G_PLUS_1,2025-10-20,RLB,12.48,LT-3,G.O-1,G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Whitefield,1000580,2025-03-18,1000581,1000582|1000583|1000584|1000585|1000586|1000587,6,2025-03-18,1654,G_PLUS_2,,GBA,5.04,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,HSR Layout,0001000678,2024-11-01,0001000679,0001000680|0001000681|0001000682|0001000683,4,2024-11-01,4749,S_PLUS_7,,RLB,5.18,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,,,1000043,,0,2024-09-10,720,S_PLUS_1,2026-01-07,ULB,4.11,LT-2A,G.O-1,G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Mandya,,,0001000166,,0,2023-09-04,1026,G_PLUS_2,2025-08-13,ULB,3.56,LT-3,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,0001000613,2023-11-19,0001000614,,0,2023-11-19,2660,GROUND,,ULB,11.81,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Indiranagar,0001000400,2023-10-05,0001000401,,0,2023-10-05,2622,G_PLUS_6,2025-03-29,GBA,10.68,LT-2A,legacy rule,legacy rule,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,,,1000619,,0,2024-07-08,1840,S_PLUS_3,,RLB,12.87,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,,,1000045,,0,2025-09-01,1087,S_PLUS_3,,ULB,2.35,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Mandya,,,0001000562,,0,2025-04-05,2279,G_PLUS_2,,RLB,10.18,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Jayanagar,,,0001000421,0001000422|0001000423|0001000424|0001000425|0001000426,5,2023-06-29,1346,G_PLUS_7,2024-12-05,ULB,12.19,LT-3,legacy rule,legacy rule,YES
+HESCOM,Hubli,Hubli,Hubli Division,Bagalkot,,,0001000601,,0,2024-06-13,2594,S_PLUS_1,,RLB,11.11,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,,,0001000474,,0,2026-01-24,603,S_PLUS_3,,RLB,12.48,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Hassan,,,1000655,1000656|1000657,2,2024-12-13,2872,G_PLUS_1,,ULB,5.34,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,1000695,2024-01-24,,,0,,4517,G_PLUS_5,,ULB,8.17,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Chamarajanagar,0001000273,2025-12-03,0001000274,,0,2025-12-03,4174,G_PLUS_9,,ULB,6.56,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Indiranagar,1000007,2023-11-28,1000008,,0,2023-11-28,1009,S_PLUS_2,2026-06-19,RLB,12.29,LT-2A,G.O-1,G.O-1,YES
+CESC,Mysore,Mysore,Mysore Division,Pandavapura,1000471,2023-07-15,1000472,1000473,1,2023-07-15,421,GROUND,,ULB,4.78,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,1000715,2024-11-07,,,0,,2923,S_PLUS_7,,RLB,10.98,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Rajajinagar,0001000195,2024-11-08,0001000196,0001000197|0001000198,2,2024-11-08,536,S_PLUS_1,2025-07-06,RLB,2.64,LT-2A,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Marathahalli,,,1000239,1000240|1000241|1000242|1000243|1000244|1000245|1000246|1000247|1000248,9,2024-06-11,606,G_PLUS_2,2025-04-29,RLB,2.67,LT-2A,Serviced with OC,Serviced with OC,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,,,1000355,1000356,1,2023-04-01,990,S_PLUS_10,2025-03-17,RLB,10.53,LT-2A,legacy rule,legacy rule,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Whitefield,,,0001000705,0001000706|0001000707|0001000708|0001000709|0001000710|0001000711|0001000712|0001000713,8,2024-12-08,3373,G_PLUS_6,,GBA,1.50,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Gadag,,,1000513,1000514|1000515|1000516|1000517|1000518|1000519,6,2023-09-13,1142,GROUND,,RLB,6.09,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,,,1000138,1000139|1000140|1000141|1000142|1000143|1000144,6,2024-07-09,2573,S_PLUS_4,2026-06-08,RLB,5.52,LT-2A,G.O-2,G.O-2,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,,,0001000081,,0,2024-10-12,2864,G_PLUS_3,2026-06-11,RLB,6.51,LT-2A,G.O-2,G.O-2,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Gadag,,,0001000057,,0,2024-03-12,555,G_PLUS_1,2026-03-02,ULB,3.19,LT-3,G.O-1,G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Rajajinagar,0001000314,2024-07-04,0001000315,0001000316|0001000317|0001000318|0001000319,4,2024-07-04,3596,S_PLUS_8,2025-10-02,ULB,11.46,LT-2A,Serviced with OC,Serviced with OC,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,,,0001000445,,0,2026-06-16,815,S_PLUS_3,,ULB,4.02,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Sedam,1000276,2024-01-07,1000277,1000278|1000279|1000280|1000281|1000282|1000283|1000284|1000285|1000286,9,2024-01-07,4737,G_PLUS_5,2025-12-14,ULB,7.53,LT-3,Serviced with OC,Serviced with OC,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Nazarbad,1000565,2024-07-11,,,0,,1802,GROUND,,RLB,9.74,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,1000103,2024-02-23,1000104,,0,2024-02-23,2064,G_PLUS_3,2026-06-04,ULB,5.99,LT-2A,G.O-2,G.O-2,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,1000449,2024-04-25,1000450,1000451|1000452|1000453|1000454|1000455,5,2024-04-25,908,G_PLUS_1,,RLB,10.36,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Koramangala,,,1000717,,0,2024-06-03,4483,S_PLUS_10,,ULB,7.09,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,0001000716,2025-06-30,,,0,,4756,G_PLUS_5,,ULB,9.11,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,,,0001000077,,0,2025-10-21,2151,G_PLUS_1,,RLB,1.32,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+GESCOM,Ballari,Ballari,Ballari Division,Ballari,,,0001000167,,0,2023-05-31,746,S_PLUS_3,2025-06-17,RLB,6.25,LT-2A,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Koramangala,,,1000414,1000415|1000416|1000417|1000418|1000419|1000420,6,2024-08-16,2794,S_PLUS_6,2024-05-07,ULB,10.76,LT-3,legacy rule,legacy rule,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Gadag,,,0001000588,0001000589|0001000590,2,2025-11-23,2389,G_PLUS_3,,ULB,9.02,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Mandya,1000643,2024-03-18,1000644,1000645|1000646|1000647|1000648|1000649|1000650|1000651|1000652|1000653|1000654,10,2024-03-18,2004,GROUND,,RLB,5.79,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Rajajinagar,0001000486,2026-05-16,0001000487,0001000488|0001000489|0001000490|0001000491|0001000492|0001000493|0001000494|0001000495,8,2026-05-16,1058,S_PLUS_3,,ULB,9.40,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Jayanagar,,,1000053,,0,2025-04-18,648,S_PLUS_1,2025-12-16,ULB,6.20,LT-3,G.O-1,G.O-1,YES
+HESCOM,Hubli,Hubli,Hubli Division,Bagalkot,0001000523,2025-09-16,,,0,,1049,S_PLUS_1,,RLB,8.75,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Whitefield,0001000704,2025-06-03,,,0,,3618,G_PLUS_5,,ULB,11.41,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Sedam,0001000199,2023-12-13,0001000200,,0,2023-12-13,690,S_PLUS_1,2025-07-31,ULB,2.56,LT-2A,Serviced with OC,Serviced with OC,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Gadag,1000168,2026-01-15,1000169,1000170|1000171,2,2026-01-15,988,S_PLUS_2,,ULB,8.22,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Chamarajanagar,1000633,2024-09-01,1000634,1000635|1000636|1000637|1000638|1000639,5,2024-09-01,2636,S_PLUS_3,,ULB,4.54,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Koramangala,0001000322,2024-01-01,0001000323,0001000324|0001000325|0001000326|0001000327|0001000328|0001000329|0001000330|0001000331|0001000332|0001000333,10,2024-01-01,4711,G_PLUS_7,2025-09-08,ULB,11.78,LT-3,Serviced with OC,Serviced with OC,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Mandya,,,1000600,,0,2024-07-12,2291,GROUND,,ULB,7.79,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Hassan,0001000151,2023-11-03,0001000152,0001000153|0001000154|0001000155|0001000156|0001000157|0001000158,6,2023-11-03,1892,G_PLUS_2,2026-06-15,RLB,2.21,LT-2A,G.O-2,G.O-2,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,0001000718,2026-03-25,0001000719,,0,2026-03-25,3932,S_PLUS_8,,ULB,8.34,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,0001000532,2023-05-08,0001000533,0001000534|0001000535|0001000536|0001000537|0001000538,5,2023-05-08,678,S_PLUS_3,,RLB,5.40,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Raichur,,,0001000403,0001000404|0001000405|0001000406|0001000407|0001000408|0001000409|0001000410,7,2025-08-08,2520,G_PLUS_9,,ULB,8.76,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+GESCOM,Ballari,Ballari,Ballari Division,Ballari,,,0001000150,,0,2023-04-27,2561,S_PLUS_1,2026-06-12,ULB,10.84,LT-2A,G.O-2,G.O-2,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Nazarbad,0001000396,2025-08-06,,,0,,4742,G_PLUS_5,,RLB,10.49,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+HESCOM,Hubli,Hubli,Hubli Division,Haveri,1000320,2024-05-06,1000321,,0,2024-05-06,3149,G_PLUS_5,2025-09-29,RLB,1.36,LT-2A,Serviced with OC,Serviced with OC,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Chamarajanagar,,,1000313,,0,2023-07-01,3169,G_PLUS_5,2026-02-14,RLB,1.05,LT-3,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,0001000658,2026-05-27,0001000659,,0,2026-05-27,3881,S_PLUS_5,,RLB,12.58,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Koramangala,1000287,2025-04-02,,,0,,3335,S_PLUS_10,2026-02-13,GBA,10.62,LT-2A,Serviced with OC,Serviced with OC,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,,,0001000563,,0,2025-05-10,2780,S_PLUS_4,,ULB,11.75,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,1000054,2023-07-23,1000055,,0,2023-07-23,567,GROUND,2026-02-25,ULB,12.32,LT-3,G.O-1,G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Koramangala,0001000727,2024-10-12,0001000728,,0,2024-10-12,3423,S_PLUS_8,,RLB,1.43,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Gadag,0001000353,2023-08-13,0001000354,,0,2023-08-13,2823,G_PLUS_7,2024-03-24,ULB,9.86,LT-3,legacy rule,legacy rule,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,,,1000017,,0,2025-01-28,721,S_PLUS_1,2025-09-02,RLB,4.41,LT-2A,G.O-1,G.O-1,YES
+CESC,Mysore,Mysore,Mysore Division,Mysore,0001000351,2023-10-10,0001000352,,0,2023-10-10,2941,S_PLUS_8,2024-11-02,ULB,3.77,LT-2A,legacy rule,legacy rule,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,,,0001000701,0001000702,1,2026-04-27,4451,S_PLUS_10,,GBA,1.41,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+HESCOM,Hubli,Hubli,Hubli Division,Bagalkot,,,1000616,,0,2025-06-04,1802,G_PLUS_1,,RLB,8.02,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,0001000201,2025-11-22,,,0,,927,G_PLUS_2,,ULB,4.75,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Indiranagar,,,1000660,,0,2023-05-30,2921,G_PLUS_8,,ULB,9.29,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Marathahalli,,,0001000001,,0,2026-01-05,749,S_PLUS_1,,GBA,2.78,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,0001000564,2025-01-21,,,0,,2442,G_PLUS_3,,ULB,5.25,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Gadag,,,0001000172,0001000173|0001000174|0001000175|0001000176|0001000177|0001000178|0001000179|0001000180|0001000181,9,2025-03-07,649,S_PLUS_3,2025-06-12,RLB,6.99,LT-3,Serviced with OC,Serviced with OC,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,,,0001000527,,0,2024-01-23,625,G_PLUS_1,,RLB,12.87,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Gadag,1000080,2025-05-31,,,0,,2206,G_PLUS_2,2026-06-03,RLB,7.96,LT-2A,G.O-2,G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Whitefield,1000056,2026-03-15,,,0,,964,GROUND,,GBA,10.41,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Nazarbad,0001000291,2024-07-16,0001000292,0001000293|0001000294|0001000295|0001000296|0001000297|0001000298|0001000299,7,2024-07-16,3989,G_PLUS_9,2025-10-31,ULB,12.31,LT-2A,Serviced with OC,Serviced with OC,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,,,0001000018,,0,2025-12-30,808,S_PLUS_1,,RLB,1.36,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,0001000052,2024-03-04,,,0,,920,GROUND,2025-09-12,RLB,10.38,LT-2A,G.O-1,G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Sedam,,,1000118,1000119|1000120|1000121|1000122|1000123|1000124|1000125|1000126,8,2025-01-22,1426,S_PLUS_1,2026-06-01,ULB,8.14,LT-3,G.O-2,G.O-2,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Sedam,,,1000539,1000540|1000541|1000542|1000543|1000544|1000545|1000546|1000547|1000548|1000549,10,2023-12-25,496,G_PLUS_1,,ULB,10.23,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,HSR Layout,0001000262,2024-08-27,,,0,,610,S_PLUS_2,2025-05-08,ULB,12.99,LT-3,Serviced with OC,Serviced with OC,YES
+HESCOM,Hubli,Hubli,Hubli Division,Haveri,1000004,2024-11-08,,,0,,1171,G_PLUS_2,2025-11-13,RLB,9.90,LT-3,G.O-1,G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Rajajinagar,0001000671,2026-03-03,0001000672,0001000673|0001000674|0001000675|0001000676|0001000677,5,2026-03-03,4574,G_PLUS_6,,GBA,4.28,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Whitefield,0001000225,2025-11-25,0001000226,0001000227|0001000228|0001000229|0001000230|0001000231|0001000232|0001000233|0001000234|0001000235|0001000236,10,2025-11-25,1119,S_PLUS_1,,ULB,9.50,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+CESC,Mysore,Mysore,Mysore Division,Pandavapura,0001000032,2025-06-11,,,0,,635,G_PLUS_1,2026-05-11,RLB,2.89,LT-3,G.O-1,G.O-1,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,1000044,2024-06-23,,,0,,1032,G_PLUS_2,2026-01-13,RLB,1.56,LT-2A,G.O-1,G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Marathahalli,0001000386,2024-12-03,0001000387,0001000388|0001000389|0001000390|0001000391|0001000392|0001000393|0001000394|0001000395,8,2024-12-03,3001,S_PLUS_6,2024-08-16,GBA,12.87,LT-3,legacy rule,legacy rule,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,1000288,2025-03-16,1000289,,0,2025-03-16,4284,S_PLUS_9,2026-04-26,RLB,4.86,LT-2A,Serviced with OC,Serviced with OC,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,0001000275,2024-05-27,,,0,,4702,G_PLUS_7,2026-02-22,RLB,2.08,LT-3,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Indiranagar,,,0001000528,0001000529,1,2025-11-14,728,G_PLUS_1,,ULB,2.82,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Hassan,1000661,2023-06-26,1000662,1000663|1000664|1000665|1000666|1000667|1000668|1000669|1000670,8,2023-06-26,2984,G_PLUS_4,,ULB,8.35,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,0001000374,2026-06-11,0001000375,0001000376|0001000377|0001000378|0001000379|0001000380,5,2026-06-11,4814,G_PLUS_6,,RLB,10.27,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+CESC,Mysore,Mysore,Mysore Division,Mysore,,,0001000339,,0,2024-06-08,3273,G_PLUS_8,2024-05-01,RLB,9.84,LT-2A,legacy rule,legacy rule,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,0001000551,2026-03-21,0001000552,0001000553|0001000554|0001000555|0001000556|0001000557|0001000558|0001000559|0001000560|0001000561,9,2026-03-21,2803,G_PLUS_1,,RLB,1.69,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Gadag,,,1000497,,0,2024-09-05,1136,G_PLUS_1,,ULB,3.65,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+CESC,Mysore,Mysore,Mysore Division,Mysore,,,0001000290,,0,2024-09-19,3468,S_PLUS_7,2025-09-23,RLB,9.73,LT-2A,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,0001000300,2025-05-15,0001000301,,0,2025-05-15,3073,G_PLUS_5,2025-11-15,GBA,6.33,LT-3,Serviced with OC,Serviced with OC,YES
+HESCOM,Hubli,Hubli,Hubli Division,Haveri,,,0001000435,0001000436|0001000437|0001000438|0001000439|0001000440|0001000441|0001000442|0001000443|0001000444,9,2023-05-15,579,GROUND,,RLB,4.88,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,0001000448,2026-02-11,,,0,,1113,S_PLUS_1,,RLB,12.34,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Sedam,1000468,2025-10-02,1000469,1000470,1,2025-10-02,870,S_PLUS_1,,RLB,6.72,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Indiranagar,0001000363,2026-04-23,0001000364,,0,2026-04-23,4077,S_PLUS_1,,GBA,4.65,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,0001000524,2023-06-21,0001000525,,0,2023-06-21,705,S_PLUS_1,,GBA,1.19,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+HESCOM,Hubli,Hubli,Hubli Division,Bagalkot,,,1000211,1000212|1000213|1000214|1000215|1000216|1000217|1000218|1000219|1000220|1000221,10,2024-06-13,640,S_PLUS_3,2025-04-08,RLB,11.81,LT-2A,Serviced with OC,Serviced with OC,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,0001000037,2025-09-18,0001000038,0001000039|0001000040|0001000041|0001000042,4,2025-09-18,581,G_PLUS_1,,ULB,11.24,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+HESCOM,Hubli,Hubli,Hubli Division,Haveri,,,1000498,1000499|1000500|1000501|1000502|1000503|1000504|1000505|1000506|1000507,9,2023-08-03,901,G_PLUS_1,,ULB,4.16,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+CESC,Mysore,Mysore,Mysore Division,Krishnarajanagar,,,0001000341,,0,2025-02-07,1695,G_PLUS_5,2024-08-05,RLB,7.49,LT-2A,legacy rule,legacy rule,YES
+HESCOM,Hubli,Hubli,Hubli Division,Bagalkot,,,1000520,1000521|1000522,2,2025-12-10,481,G_PLUS_2,,ULB,5.18,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Sedam,1000446,2025-09-15,1000447,,0,2025-09-15,769,G_PLUS_1,,ULB,3.65,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Nazarbad,,,1000397,,0,2026-06-19,2446,S_PLUS_5,,RLB,4.60,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Jayanagar,1000137,2023-09-16,,,0,,2006,S_PLUS_3,2026-06-11,RLB,1.69,LT-3,G.O-2,G.O-2,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Sedam,1000105,2025-08-08,1000106,1000107|1000108|1000109|1000110|1000111|1000112|1000113|1000114|1000115|1000116,10,2025-08-08,1405,GROUND,,RLB,8.45,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+CESC,Mysore,Mysore,Mysore Division,Pandavapura,0001000009,2023-05-04,0001000010,0001000011|0001000012|0001000013|0001000014|0001000015|0001000016,6,2023-05-04,1078,G_PLUS_2,2026-06-16,RLB,5.19,LT-2A,G.O-1,G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Rajajinagar,,,0001000129,0001000130|0001000131|0001000132|0001000133|0001000134|0001000135|0001000136,7,2024-08-31,2710,G_PLUS_3,2026-06-17,GBA,4.19,LT-3,G.O-2,G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,,,0001000365,0001000366|0001000367|0001000368|0001000369|0001000370|0001000371|0001000372|0001000373,8,2024-07-06,3034,G_PLUS_5,2024-03-04,RLB,8.36,LT-3,legacy rule,legacy rule,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,HSR Layout,,,0001000621,0001000622|0001000623|0001000624|0001000625|0001000626|0001000627|0001000628|0001000629|0001000630,9,2024-05-26,1414,G_PLUS_2,,ULB,6.98,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,0001000615,2024-05-25,,,0,,2105,S_PLUS_2,,ULB,12.36,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,0001000466,2025-02-16,0001000467,,0,2025-02-16,1015,S_PLUS_2,,ULB,12.76,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,0001000475,2025-05-11,0001000476,0001000477|0001000478|0001000479|0001000480|0001000481|0001000482|0001000483|0001000484,8,2025-05-11,1195,S_PLUS_1,,RLB,11.75,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,,,1000642,,0,2023-12-11,1561,G_PLUS_1,,RLB,9.96,LT-3,Eligible under G.O-2,Eligible under G.O-2,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,,,0001000714,,0,2025-12-19,4154,S_PLUS_9,,ULB,2.92,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,,,0001000602,0001000603,1,2023-09-03,1432,G_PLUS_3,,RLB,5.14,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+HESCOM,Dharwad,Dharwad,Dharwad Division,Dharwad,0001000249,2025-02-15,0001000250,0001000251|0001000252|0001000253,3,2025-02-15,593,S_PLUS_2,2025-08-09,ULB,11.89,LT-3,Serviced with OC,Serviced with OC,YES
+CESC,Mysore,Mysore,Mysore Division,Krishnarajanagar,0001000620,2024-08-03,,,0,,2598,S_PLUS_2,,ULB,11.09,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,1000703,2025-11-15,,,0,,3215,G_PLUS_7,,GBA,9.24,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,,,1000700,,0,2023-05-18,4116,G_PLUS_5,,RLB,11.92,LT-2A,Plot area / Floor Violation,Plot area / Floor Violation,YES
+CESC,Mysore,Mysore,Mysore Division,Pandavapura,,,1000051,,0,2023-11-02,782,S_PLUS_1,2026-01-31,RLB,6.76,LT-2A,G.O-1,G.O-1,YES
+CESC,Mysore,Mysore,Mysore Division,Pandavapura,,,1000605,1000606|1000607|1000608|1000609|1000610|1000611|1000612,7,2026-02-14,2446,S_PLUS_4,,RLB,7.90,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Yadgir,,,1000729,1000730|1000731,2,2025-04-03,4426,G_PLUS_4,,ULB,1.32,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+CESC,Mysore,Mysore,Mysore Division,Mysore,1000411,2025-11-22,1000412,1000413,1,2025-11-22,4468,G_PLUS_2,,RLB,9.49,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+GESCOM,Ballari,Ballari,Ballari Division,Ballari,,,0001000308,,0,2024-04-15,4290,S_PLUS_8,2026-01-02,RLB,4.25,LT-3,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Marathahalli,,,0001000058,0001000059|0001000060|0001000061|0001000062|0001000063|0001000064|0001000065,7,2026-03-09,1068,S_PLUS_3,,ULB,7.75,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Marathahalli,,,0001000725,,0,2023-04-20,4109,G_PLUS_8,,RLB,5.01,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Jayanagar,,,1000302,1000303|1000304,2,2025-03-10,4279,S_PLUS_10,2026-01-05,ULB,10.48,LT-3,Serviced with OC,Serviced with OC,YES
+CESC,Mysore,Mysore,Mysore Division,Krishnarajanagar,0001000127,2023-12-21,0001000128,,0,2023-12-21,2456,S_PLUS_2,2026-06-19,RLB,8.38,LT-3,G.O-2,G.O-2,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Mandya,,,0001000340,,0,2026-04-27,690,G_PLUS_2,,ULB,2.41,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Nazarbad,,,0001000189,0001000190|0001000191|0001000192|0001000193|0001000194,5,2025-10-27,474,S_PLUS_2,,RLB,8.71,LT-3,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Marathahalli,,,0001000306,0001000307,1,2024-09-10,3621,G_PLUS_4,2026-05-22,GBA,8.97,LT-2A,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Marathahalli,1000075,2023-10-23,1000076,,0,2023-10-23,2251,G_PLUS_3,2026-06-07,RLB,6.83,LT-2A,G.O-2,G.O-2,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Koramangala,,,1000254,1000255|1000256|1000257|1000258|1000259|1000260|1000261,7,2025-08-08,772,G_PLUS_1,,ULB,6.96,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+BESCOM,Bangalore Urban,Bangalore East,East Division,Marathahalli,0001000159,2023-09-02,,,0,,2667,G_PLUS_1,2026-06-19,GBA,2.00,LT-3,G.O-2,G.O-2,YES
+GESCOM,Ballari,Ballari,Ballari Division,Ballari,0001000078,2025-08-22,0001000079,,0,2025-08-22,2165,S_PLUS_2,,ULB,4.72,LT-2A,Eligible under G.O-2,Eligible under G.O-2,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,,,0001000263,0001000264|0001000265|0001000266|0001000267|0001000268|0001000269|0001000270,7,2023-08-29,914,G_PLUS_2,2025-06-21,RLB,3.93,LT-2A,Serviced with OC,Serviced with OC,YES
+BESCOM,Bangalore Urban,Bangalore South,South East Division,Electronic City,1000021,2023-12-12,1000022,1000023|1000024|1000025|1000026|1000027|1000028,6,2023-12-12,1064,S_PLUS_2,2025-11-30,ULB,4.05,LT-2A,G.O-1,G.O-1,YES
+GESCOM,Kalaburagi,Kalaburagi,Kalaburagi Division,Raichur,,,0001000006,,0,2025-03-07,460,G_PLUS_2,2026-04-04,RLB,7.88,LT-2A,G.O-1,G.O-1,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,,,0001000161,0001000162|0001000163|0001000164|0001000165,4,2025-09-16,697,G_PLUS_2,,ULB,1.84,LT-2A,Eligible under G.O-1,Eligible under G.O-1,YES
+MESCOM,Mysuru,Mysore,Mysore Division,Hassan,,,1000271,,0,2025-04-16,3988,G_PLUS_6,2025-11-08,ULB,1.07,LT-2A,Serviced with OC,Serviced with OC,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,,,0001000093,0001000094|0001000095|0001000096|0001000097|0001000098|0001000099|0001000100|0001000101|0001000102,9,2023-04-11,2000,S_PLUS_3,2026-06-01,ULB,8.14,LT-3,G.O-2,G.O-2,YES
+CESC,Mysore,Mysore,Mysore Division,Srirangapatna,,,1000342,1000343|1000344|1000345|1000346|1000347|1000348|1000349|1000350,8,2025-12-31,4009,S_PLUS_8,,RLB,4.40,LT-3,Plot area / Floor Violation,Plot area / Floor Violation,YES
+HESCOM,Hubli,Hubli,Hubli Division,Belgaum,1000203,2024-09-17,1000204,1000205|1000206|1000207|1000208|1000209|1000210,6,2024-09-17,463,GROUND,2025-06-25,ULB,1.72,LT-2A,Serviced with OC,Serviced with OC,YES
